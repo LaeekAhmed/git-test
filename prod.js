@@ -2,4 +2,4 @@ const prod = (a,b)=>{
     return a*b
 }
 
-console.log('prod : ',prod(5,2))
+console.log('prod is : ',prod(5,2))
